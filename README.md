@@ -41,8 +41,6 @@ A web application to minimize food waste through meal planning, inventory manage
 - **Email:** 22cs01040@iitbbs.ac.in
 - **GitHub:** [github.com/adarshdhakar](https://github.com/adarshdhakar)
 - **LinkedIn:** [linkedin.com/in/adarsh-dhakar](https://linkedin.com/in/adarsh-dhakar)
-- **Portfolio:** [adarshdhakar.dev](https://adarshdhakar.dev)
-- **Codolio Profile:** [codolio/adarshdhakar](https://codolio/adarshdhakar)
 
 ## ⚡ Fun fact:
 The first computer bug was an actual bug!
