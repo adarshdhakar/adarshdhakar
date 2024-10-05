@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Adarsh Dhakar!
 
 ## About Me
-I'm a passionate **Computer Science and Engineering** student at the **Indian Institute of Technology, Bhubaneswar**. With a solid foundation in both software and hardware, I have a keen interest in **full-stack web development**, **real-time applications**, and **artificial intelligence**. I'm driven by a curiosity for solving complex problems, learning cutting-edge technologies, and building impactful software solutions.
+I'm a passionate **Computer Science and Engineering** student at the **Indian Institute of Technology, Bhubaneswar**. I have a keen interest in **full-stack web development**, **real-time applications**, and **artificial intelligence**. I'm curious about solving complex problems, learning cutting-edge technologies, and building impactful software solutions.
 
 ## 👀 I’m interested in ...
 - **Backend Development:** Building scalable and secure APIs and designing efficient database architectures.
@@ -19,17 +19,14 @@ Here are a few highlights of the projects I've worked on:
 
 ### **ChitChat | Real-Time AI-Powered Chatting Website**
 A feature-rich real-time chatting platform supporting group chats, audio and video calls, and an AI assistant chatbot.
-- **Key Features:** Group Chat, Audio/Video Calls, Real-Time Messaging, AI Chatbot
 - **Tech Stack:** NextJS, JavaScript, NodeJS, MongoDB, Cloudinary, Vercel
   
 ### **SaaSify | Software as a Service Intermediary**
 A web platform that allows users to manage software listings, add services to a cart, and carry out auctions. 
-- **Key Features:** Software Listings, Shopping Cart, Auction System, User Reviews
 - **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, NodeJS, EJS, MongoDB, Cloudinary
 
 ### **EcoSaver | Food Waste Reduction Website**
 A web application to minimize food waste through meal planning, inventory management, and expiration alerts.
-- **Key Features:** Meal Planning, Expiration Alerts, Recipes, Inventory Management
 - **Tech Stack:** ReactJS, JavaScript, NodeJS, MongoDB
 
 ## 💞️ I’m looking to collaborate on ...
