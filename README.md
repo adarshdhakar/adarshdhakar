@@ -38,7 +38,7 @@ A web application to minimize food waste through meal planning, inventory manage
 - **Open-Source Projects:** I would enjoy contributing to open-source projects and improving existing solutions with optimized code and new features.
 
 ## 📫 How to reach me ...
-- **Email:** 22cs01040@iitbbs.ac.in
+- **Email:** adarshdhakar266@gmail.com, 22cs01040@iitbbs.ac.in
 - **GitHub:** [github.com/adarshdhakar](https://github.com/adarshdhakar)
 - **LinkedIn:** [linkedin.com/in/adarsh-dhakar](https://linkedin.com/in/adarsh-dhakar)
 
