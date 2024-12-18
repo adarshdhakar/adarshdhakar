@@ -3,6 +3,11 @@
 ## 💫 About Me:
 I'm a **Computer Science and Engineering** student at **Indian Institute of Technology, Bhubaneswar**. I’m passionate about **full-stack web development**, **real-time applications**, and **artificial intelligence**. Currently in my **B.Tech (2022-2026)** journey, I enjoy solving complex problems and building impactful tech solutions.
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-dhakar) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/adarshdhakar) 
@@ -20,11 +25,6 @@ I'm a **Computer Science and Engineering** student at **Indian Institute of Tech
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 My Projects:
 Here are a few of my favorite projects:
