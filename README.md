@@ -1,45 +1,50 @@
 # 👋 Hi, I’m Adarsh Dhakar!
 
-## About Me
-I'm a passionate **Computer Science and Engineering** student at the **Indian Institute of Technology, Bhubaneswar**. I have a keen interest in **full-stack web development**, **real-time applications**, and **artificial intelligence**. I'm curious about solving complex problems, learning cutting-edge technologies, and building impactful software solutions.
+## 💫 About Me:
+I'm a **Computer Science and Engineering** student at **Indian Institute of Technology, Bhubaneswar**. I’m passionate about **full-stack web development**, **real-time applications**, and **artificial intelligence**. Currently in my **B.Tech (2022-2026)** journey, I enjoy solving complex problems and building impactful tech solutions.
 
-## 👀 I’m interested in ...
-- **Backend Development:** Building scalable and secure APIs and designing efficient database architectures.
-- **Full-Stack Web Development:** Working with JavaScript, Node.js, Next.js, and React to build responsive and dynamic web applications.
-- **Artificial Intelligence:** Creating AI-powered chatbots and finding real-world applications of AI in user-centric products.
-- **Hardware-Software Integration:** Combining my knowledge of electronics with software development for innovative IoT projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-dhakar) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/adarshdhakar) 
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:adarshdhakar266@gmail.com)
 
-## 🌱 I’m currently learning ...
-- **WebRTC** for enabling real-time video and audio communication
-- **AWS Cloud Services** to improve the scalability and performance of my applications
-- **Machine Learning** to integrate predictive models into software products
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%23061DB6.svg?style=for-the-badge&logo=react&logoColor=white) 
+![NextJS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
-## 💻 My Projects
-Here are a few highlights of the projects I've worked on:
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 💻 My Projects:
+Here are a few of my favorite projects:
 
 ### **ChitChat | Real-Time AI-Powered Chatting Website**
-A feature-rich real-time chatting platform supporting group chats, audio and video calls, and an AI assistant chatbot.
-- **Tech Stack:** NextJS, JavaScript, NodeJS, MongoDB, Cloudinary, Vercel
-  
+A feature-rich real-time chatting platform supporting group chats, audio/video calls, and an AI-powered chatbot.
+- **Tech Stack:** Next.js, Node.js, MongoDB, Vercel, Cloudinary
+
 ### **SaaSify | Software as a Service Intermediary**
-A web platform that allows users to manage software listings, add services to a cart, and carry out auctions. 
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, NodeJS, EJS, MongoDB, Cloudinary
+A web platform that allows users to manage software listings, add services to a cart, and carry out auctions.
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, EJS, MongoDB
 
 ### **EcoSaver | Food Waste Reduction Website**
-A web application to minimize food waste through meal planning, inventory management, and expiration alerts.
-- **Tech Stack:** ReactJS, JavaScript, NodeJS, MongoDB
+An application to reduce food waste with meal planning, inventory management, and expiration alerts.
+- **Tech Stack:** ReactJS, Node.js, MongoDB
 
-## 💞️ I’m looking to collaborate on ...
-- **Full-Stack Web Projects:** I love working on scalable and dynamic web applications that offer great user experiences.
-- **Real-Time Applications:** Whether it's building real-time messaging platforms, video/audio conferencing apps, or AI-driven tools, I'm excited about creating high-performance, real-time applications.
-- **Open-Source Projects:** I would enjoy contributing to open-source projects and improving existing solutions with optimized code and new features.
+## 💞️ I’m looking to collaborate on:
+- **Full-Stack Web Development:** Working on scalable web applications using React, Node.js, and MongoDB.
+- **Real-Time Applications:** Building real-time messaging platforms, video/audio conferencing tools, or AI-driven tools.
+- **Open-Source Projects:** Contributing to open-source initiatives with bug fixes, new features, or improvements.
 
-## 📫 How to reach me ...
+## 📫 How to reach me:
 - **Email:** adarshdhakar266@gmail.com, 22cs01040@iitbbs.ac.in
 - **GitHub:** [github.com/adarshdhakar](https://github.com/adarshdhakar)
 - **LinkedIn:** [linkedin.com/in/adarsh-dhakar](https://linkedin.com/in/adarsh-dhakar)
 
 ## ⚡ Fun fact:
 The first computer bug was an actual bug!
-
-
