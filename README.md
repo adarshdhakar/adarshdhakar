@@ -9,35 +9,25 @@ I'm a **Computer Science and Engineering** student at **Indian Institute of Tech
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-dhakar) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/adarshdhakar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-dhakar)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/adarshdhakar)  
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:adarshdhakar266@gmail.com)
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![ReactJS](https://img.shields.io/badge/React-%23061DB6.svg?style=for-the-badge&logo=react&logoColor=white)  
-![NextJS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-%23061DB6.svg?style=for-the-badge&logo=react&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 💻 My Projects:
 Here are a few of my favorite projects:
 
-### **ChitChat | Real-Time AI-Powered Chatting Website**
+### **[ChitChat | Real-Time AI-Powered Chatting Website](https://github.com/adarshdhakar/chitchat)**
 A feature-rich real-time chatting platform supporting group chats, audio/video calls, and an AI-powered chatbot.
 - **Tech Stack:** Next.js, Node.js, MongoDB, Vercel, Cloudinary
 
-### **SaaSify | Software as a Service Intermediary**
+### **[SaaSify | Software as a Service Intermediary](https://github.com/adarshdhakar/saasify)**
 A web platform that allows users to manage software listings, add services to a cart, and carry out auctions.
 - **Tech Stack:** HTML, CSS, JavaScript, Node.js, EJS, MongoDB
 
-### **EcoSaver | Food Waste Reduction Website**
+### **[EcoSaver | Food Waste Reduction Website](https://github.com/adarshdhakar/ecosaver)**
 An application to reduce food waste with meal planning, inventory management, and expiration alerts.
 - **Tech Stack:** ReactJS, Node.js, MongoDB
 
@@ -47,8 +37,8 @@ An application to reduce food waste with meal planning, inventory management, an
 - **Open-Source Projects:** Contributing to open-source initiatives with bug fixes, new features, or improvements.
 
 ## 📫 How to reach me:
-- **Email:** adarshdhakar266@gmail.com, 22cs01040@iitbbs.ac.in
-- **GitHub:** [github.com/adarshdhakar](https://github.com/adarshdhakar)
+- **Email:** adarshdhakar266@gmail.com, 22cs01040@iitbbs.ac.in  
+- **GitHub:** [github.com/adarshdhakar](https://github.com/adarshdhakar)  
 - **LinkedIn:** [linkedin.com/in/adarsh-dhakar](https://linkedin.com/in/adarsh-dhakar)
 
 ## ⚡ Fun fact:
