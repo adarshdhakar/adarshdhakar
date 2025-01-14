@@ -4,6 +4,7 @@
 I'm a **Computer Science and Engineering** student at **Indian Institute of Technology, Bhubaneswar**. I’m passionate about **full-stack web development**, **real-time applications**, and **artificial intelligence**. Currently in my **B.Tech (2022-2026)** journey, I enjoy solving complex problems and building impactful tech solutions.
 
 ## 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -17,6 +18,10 @@ I'm a **Computer Science and Engineering** student at **Indian Institute of Tech
 ## 💻 My Projects:
 Here are a few of my favorite projects:
 
+### **[EduPoint | E-Learning Platform](https://github.com/adarshdhakar/WinterHackathon2024)**
+A comprehensive e-learning platform with Lecture Management, Admin Dashboard, Dark Mode, Resource Curations and Suggestions.
+- **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS, Redux, JWT.
+
 ### **[ChitChat | Real-Time AI-Powered Chatting Website](https://github.com/adarshdhakar/chitchat)**
 A feature-rich real-time chatting platform supporting group chats, audio/video calls, and an AI-powered chatbot.
 - **Tech Stack:** Next.js, Node.js, MongoDB, Vercel, Cloudinary
@@ -24,11 +29,7 @@ A feature-rich real-time chatting platform supporting group chats, audio/video c
 ### **[SaaSify | Software as a Service Intermediary](https://github.com/adarshdhakar/saasify)**
 A web platform that allows users to manage software listings, add services to a cart, and carry out auctions.
 - **Tech Stack:** HTML, CSS, JavaScript, Node.js, EJS, MongoDB
-
-### **[EcoSaver | Food Waste Reduction Website](https://github.com/adarshdhakar/ecosaver)**
-An application to reduce food waste with meal planning, inventory management, and expiration alerts.
-- **Tech Stack:** ReactJS, Node.js, MongoDB
-
+  
 ## 💞️ I’m looking to collaborate on:
 - **Full-Stack Web Development:** Working on scalable web applications using React, Node.js, and MongoDB.
 - **Real-Time Applications:** Building real-time messaging platforms, video/audio conferencing tools, or AI-driven tools.
