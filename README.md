@@ -4,7 +4,10 @@
 I'm a **Computer Science and Engineering** student at **Indian Institute of Technology, Bhubaneswar**. I’m passionate about **full-stack web development**, **real-time applications**, and **artificial intelligence**. Currently in my **B.Tech (2022-2026)** journey, I enjoy solving complex problems and building impactful tech solutions.
 
 ## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=dark&hide_border=false)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=dark&hide_border=false)
+<div style="border: 2px solid white; border-radius: 8px; display: inline-block;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=dark&hide_border=false" alt="Profile Details" />
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
