@@ -7,7 +7,6 @@ I'm a **Computer Science and Engineering** student at **Indian Institute of Tech
 ![](https://github-readme-stats.vercel.app/api?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarshdhakar&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
