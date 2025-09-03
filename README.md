@@ -11,7 +11,7 @@ I am a **Computer Science and Engineering** undergraduate at **IIT Bhubaneswar**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshdhakar&theme=dark&hide_border=false) 
 ![](https://github.com/adarshdhakar/adarshdhakar/raw/output/github-contribution-grid-snake.svg?theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/pin/?username=adarshdhakar&repo=adarshdhakar&theme=dark)
+<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=adarshdhakar&repo=adarshdhakar&theme=dark) -->
 ![](https://github-profile-trophy.vercel.app/?username=adarshdhakar&theme=dark&no-frame=true&no-bg=true&margin-w=10)
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=@adarshdhakar&theme=dark)  -->
 
